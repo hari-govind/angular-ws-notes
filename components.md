@@ -21,7 +21,7 @@ import { Component } from '@angular/core';
 })
 
 export class ComponentName {
-    var some_variable = "Hello World!";
+    some_variable = "Hello World!";
 }
 ```
 
