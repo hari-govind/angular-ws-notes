@@ -21,7 +21,7 @@ In `component-name.component.html`
 ```html
     <button [disabled]="isDisabled">Some Button<button>
 ```
-In the above example, `isDisabled` is a function defined in the logic(`component-name.component.ts`). The function should return a boolean value.
+In the above example, `isDisabled` is a function defined in the logic(`component-name.component.ts`). The function in this case should return a boolean value. A full list of properties is available [here](https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement).
 
 #### For passing data
 
